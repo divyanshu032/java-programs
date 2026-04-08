@@ -3,7 +3,7 @@ import java.io.*;
 public class Main{
     public static void main(String args[]) throws Exception{
         FileWriter fw=new FileWriter("stud.txt");
-        fw.write("1 Akansha 80");
+        fw.write("1 Divyanshu 80");
         fw.close();
 
         BufferedReader br=new BufferedReader(new FileReader("stud.txt"));
