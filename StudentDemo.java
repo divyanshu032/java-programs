@@ -9,7 +9,7 @@ class Demo {
         Student s = new Student();
 
         s.rollno = 112;
-        s.name = "Akansha";
+        s.name = "Divyanshu";
         s.marks = 95;
 
         System.out.println("Roll No: " + s.rollno);
